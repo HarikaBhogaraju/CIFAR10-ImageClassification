@@ -1,6 +1,4 @@
 # CIFAR10-ImageClassification
-A basic model to classify images in the CIFAR - 10 dataset.
-
 The classes in the CIFAR - 10 dataset:
 1) Airplanes
 2) Automobile
